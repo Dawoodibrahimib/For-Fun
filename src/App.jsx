@@ -1,5 +1,5 @@
 import Main_Button from "./Main_Button";
-import Confetti from "./confeti";
+
 
 
 function App() {
@@ -8,8 +8,8 @@ function App() {
    <>
    
     <Main_Button/>
-    <Confetti/>
-    
+   
+
     
 
     </>
