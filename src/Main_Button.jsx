@@ -109,10 +109,10 @@ function Main_Button() {
     </div>
 
     <div id="ring">
-    <h1 id="Aftertext">Place Your Finger on circle Muqadas </h1>
+    <h1 id="Aftertext">Place Your Finger on circle </h1>
     <div className="Hitbox">
     <button id="pushbutton" onClick={pressButton} disabled={pressed} >💍</button>
-    <h1>Will you be mine forever Muqadas 👉👈</h1>
+    <h1>Will you be mine forever 👉👈</h1>
     <img src={meow} alt="kity" className="Imgcute"></img>
     </div>
     </div>
