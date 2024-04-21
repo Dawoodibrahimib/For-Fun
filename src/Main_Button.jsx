@@ -52,8 +52,8 @@ function Main_Button() {
     const buttonHeight = 40; // Adjust button height
     const margin = 20; // Increase the margin
     const acpbtn = document.getElementById("mybtn");
-    setButtonHeight(prevHeight => prevHeight + 20);
-    setButtonDimensions(preWidth => preWidth + 20);
+    setButtonHeight(prevHeight => prevHeight + 10);
+    setButtonDimensions(preWidth => preWidth + 10);
   
     
 
@@ -86,7 +86,7 @@ function Main_Button() {
       <>
         <img src={Profilepic} alt="hellokitty" className='img1' id = "myElement1"></img>
         <div>
-          <h1  id = "myElement2">I  want you to be mine Muqadas  <span>💘</span> </h1>
+          <h1  id = "myElement2">I  want you to be mine <span>💘</span> </h1>
         </div>
       </>
     )}
